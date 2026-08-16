@@ -55,7 +55,7 @@
 > A dynamic news platform built for an enhanced reading experience and organized content distribution.
 * **Tech Stack:** `Python` `Django` `HTML/CSS`
 * **Key Features:** Article management dashboard, user login/signup, and category-based content filtering.
-* 🔗 [View Code Repository](https://github.com/Akshatvijesh26)
+* 🔗 [View Code Repository]([https://github.com/Akshatvijesh26](https://github.com/Akshatvijesh26/news-website-2820))
 
 ---
 
